@@ -1,0 +1,6 @@
+email, subject, message
+b@e,Hello,Okay
+
+Meh@okay.com,Confession,Blah, Blah, Get Lost!!!
+dema_euthpyel@education.gov.bt,a,aaa
+201.00365.17.0008@education.gov.bt,BLAH!!!,lskdhg;ioasdndslkhio30r329nkn skldjf
